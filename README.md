@@ -7,8 +7,8 @@ Ecossistema digital desenvolvido para a **TKL Store AM — Arte, Cultura & Desig
 ## Links Públicos (GitHub Pages)
 
 > Após ativar o **GitHub Pages** (`Settings → Pages → Branch: main → /docs`), seu cliente poderá acessar diretamente:
-> - **Portfólio de Apresentação:** `https://<seu-usuario>.github.io/tkl-store-am/`
-> - **Vitrine Pública Interativa (PC & Mobile):** `https://<seu-usuario>.github.io/tkl-store-am/vitrine/`
+> - **Portfólio de Apresentação:** `https://marcelovdias.github.io/tkl-store-am/`
+> - **Vitrine Pública Interativa (PC & Mobile):** `https://marcelovdias.github.io/tkl-store-am/vitrine/`
 
 ---
 
