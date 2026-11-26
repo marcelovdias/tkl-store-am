@@ -1,0 +1,14 @@
+{
+  "name": "tkl-store-am-gestao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema web de gerenciamento financeiro e estoque — TKL Store AM (Manaus - Arte, Cultura & Design)",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build --prefix frontend",
+    "start": "node --no-warnings backend/src/server.js",
+    "share": "node scripts/share.mjs",
+    "test": "npm test --prefix backend"
+  }
+}

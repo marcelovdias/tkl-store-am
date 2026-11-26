@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Banco de dados SQLite local (dados de uso/teste)
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+
+# Build de produção do front-end
+frontend/dist/
+
+# Variáveis de ambiente e logs
+.env
+.env.*
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
